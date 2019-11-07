@@ -14,16 +14,13 @@ function RegisterAs() {
             <input className="RegisterAsBtn" type="button" name="" value="BLECHER REPORTER"></input>
           </Link>
         </div>
+        
         <div className="RegisterAsButtons">
-          <Link to='/Register'>
+          <Link to='/RegisterLTO'>
             <input className="RegisterAsBtn" type="button" name="" value="LTO PATROL"></input>
           </Link>
         </div>
-        <div className="RegisterAsButtons">
-          <Link to='/Register'>
-            <input className="RegisterAsBtn" type="button" name="" value="EMMISSION TESTING CENTER EXPRESS"></input>
-          </Link>
-        </div>
+        
         <div className="RegisterAsText">Already have an account? 
           <Link className="ListStyle" to='/Login'>
             <b>Login</b>

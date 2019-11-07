@@ -156,6 +156,8 @@
 }
 .Header i{
   float: left;
-  padding: 20px;
-  cursor: pointer;
+  margin: 0;
+}
+.padtop{
+  padding-top: 0;
 }
