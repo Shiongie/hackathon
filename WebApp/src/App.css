@@ -149,15 +149,18 @@
   background-color: white;
   height: 100vh;
 }
-.Header
+.MainHeader
 {
+  margin:0;
+  display: block;
   background-color:#1f62cf;
   height:60px;
 }
-.Header i{
+.MainHeader i{
   float: left;
-  margin: 0;
+  padding:10px;
+  cursor: pointer;
 }
-.padtop{
-  padding-top: 0;
-}
+
+
+
