@@ -1,0 +1,161 @@
+.Login{
+  height: 100vh;
+}
+.LoginMainBox{
+  width: 300px;
+  text-align: left;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  border: 1px solid #c7c7c7;
+  border-radius: 15px;
+  padding: 20px;
+  background-color:#cffaff ;
+  transform: translate(-50%,-50%);
+}
+.LoginTextBox{
+  padding-top:20px;
+  border-bottom: 1px solid #999ca1;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.LoginTextBox input{
+  border: none;
+  background: none;
+  outline: none;
+  font-size: 14px;
+  width: 90%;
+}
+.LoginTextBox i{
+  float: right;
+}
+.LoginText {
+  text-align: center;
+  font-size: 12px;
+  color: #78797a;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.LoginButton{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.LoginBtn{
+  margin-top: 20px;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  font-size: 16PX;
+  color: white;
+  font-weight: bold;
+  background: red;
+  padding: 10px;
+  width: 170px;
+  cursor: pointer;
+}
+.RegisterAsBox{
+  width: 300px;
+  text-align: left;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  border: 1px solid #c7c7c7;
+  border-radius: 15px;
+  padding: 20px;
+  background-color:#cffaff ;
+  transform: translate(-50%,-50%);
+}
+.RegisterAsButtons{
+  text-align: center;
+}
+.RegisterAsBtn{
+  margin-top: 20px;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  font-size: 12PX;
+  color: white;
+  font-weight: bold;
+  background: red;
+  padding: 12px;
+  width: 100%;
+  cursor: pointer;
+}
+.RegisterAsText{
+  text-align: center;
+  font-size: 12px;
+  color: #78797a;
+  cursor: pointer;
+  margin-top: 60px;
+  margin-bottom: 10px;
+}
+.ListStyle{
+  text-decoration: none;
+  color: #c7c7c7;
+}
+.RegisterBox{
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+  width:300px;
+  border: 1px solid #c7c7c7;
+  border-radius: 15px;
+  padding: 20px;
+  background-color:#cffaff ;
+}
+.RegisterTextBox{
+  padding-top:20px;
+  border-bottom: 1px solid #999ca1;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.RegisterTextBox input{
+  border: none;
+  background: none;
+  outline: none;
+  font-size: 14px;
+  width: 90%;
+}
+.RegisterButton{
+  text-align: center;
+}
+.RegisterBtn{
+  margin-top: 20px;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  font-size: 16PX;
+  color: white;
+  font-weight: bold;
+  background: red;
+  padding: 10px;
+  width: 170px;
+  cursor: pointer;
+}
+.RegisterText{
+  text-align: center;
+  font-size: 12px;
+  color: #78797a;
+  cursor: pointer;
+  margin-top: 60px;
+  margin-bottom: 10px;
+}
+.RegisterTextBox i{
+  float: right;
+}
+.MainBox{
+  background-color: white;
+  height: 100vh;
+}
+.Header
+{
+  background-color:#1f62cf;
+  height:60px;
+}
+.Header i{
+  float: left;
+  padding: 20px;
+  cursor: pointer;
+}
