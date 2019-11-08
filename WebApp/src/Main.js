@@ -4,7 +4,7 @@ import './App.css';
 function Main() {
   return (
     <div className="container-fluid">
-      <div className="MainHeader">
+      
       <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -17,7 +17,7 @@ function Main() {
   </div>
 </div>
       </div>
-    </div>
+   
   )
 }
 
